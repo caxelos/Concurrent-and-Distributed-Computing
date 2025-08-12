@@ -1,4 +1,4 @@
-# Distributed-Computing-Methodologies-using-Python
+# Distributed-Computing-using-Python
 
 Project1: Αsynchronous request-reply
 
