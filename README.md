@@ -1,10 +1,4 @@
-# CE323-Distributed_Systems
-
-University of Thessaly - Electrical and Computer Engineering
-
-CE323  Distributed Systems 2018-19
-
-Students: Xristos Axelos, Thodoris Antoniou
+# Distributed-Computing-Methodologies-using-Python
 
 Project1: Αsynchronous request-reply
 
