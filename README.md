@@ -1,5 +1,8 @@
 # Distributed-Computing-using-Python
 
+* Several Projects which implement distributed computing methodologies from scratch, using Python
+* The list of projects are the following:
+  
 Project1: Αsynchronous request-reply
 
 Project2: Group Communication with total order
