@@ -6,8 +6,8 @@
 
 \## High Performance Computing ##
 
-* Folder "Concurrent-Programming-using-C" contains several projects that implement several concurrent programming mechanisms like Semaphores, Mutexes, Synchronization, Critical Code Sections (CSS).
-* All of these are implemented in C language from scratch, using Linux P-threads, OpenMP and CUDA.
+* Folder "High-Performance-Computing-in-C-language" contains several projects that implement several optimization techniques in order to reduce the execution time of a programm.
+* These techniques are implemented using C language, OpenMP library and CUDA.
 * [TODO] The list of projects are the following:
 &nbsp; \* Project 1.
 &nbsp; \* Project 2.
