@@ -2,9 +2,16 @@
 
 
 
-\# Projects on Concurrent Programming \& Distributed Computing #
+\# Projects on High Performance Computing (HPC), Concurrent Programming \& Distributed Computing #
 
+\## High Performance Computing ##
 
+* Folder "Concurrent-Programming-using-C" contains several projects that implement several concurrent programming mechanisms like Semaphores, Mutexes, Synchronization, Critical Code Sections (CSS).
+* All of these are implemented in C language from scratch, using Linux P-threads, OpenMP and CUDA.
+* [TODO] The list of projects are the following:
+&nbsp; \* Project 1.
+&nbsp; \* Project 2.
+&nbsp; \* Project 3.
 
 \## Concurrent Programming folder ##
 
