@@ -5,22 +5,11 @@
 \# Projects on High Performance Computing (HPC), Concurrent Programming \& Distributed Computing #
 
 \## High Performance Computing (HPC) ##
-
-* Folder "High-Performance-Computing-in-C-language" contains several projects that implement several optimization techniques in order to reduce the execution time of a programm.
-* These techniques are implemented using C language, OpenMP library and CUDA.
-* [TODO] The list of projects are the following:
-&nbsp; \* Project 1.
-&nbsp; \* Project 2.
-&nbsp; \* Project 3.
-
-\## High Performance Computing (HPC) ##
-⦁	Folder "..." contains projects-experimentations on several techniques & technologies that try to reduce the execution time of a program
-⦁	In our case, we experiment on:
-⦁	 	Single threaded programs with SW & Compiler optimization techniques (Intel's icc compiler & VTune studio for metrics).
-⦁	 	Multithreaded programs using OpenMP's library for C language.
-⦁	 	Multithreaded programs using NVIDIA's CUDA library for C language.
-
-
+* Folder "..." contains projects-experimentations on several techniques & technologies that try to reduce the execution time of a program
+* In our case, we experiment on:
+  * Single threaded programs with SW & Compiler optimization techniques (Intel's icc compiler & VTune studio for metrics).
+  * Multithreaded programs using OpenMP's library for C language.
+  * Multithreaded programs using NVIDIA's CUDA library for C language.
 
 
 \## Concurrent Programming folder ##
