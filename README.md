@@ -21,9 +21,7 @@
     4) Multithreaded parsing, error checking and execution of AT-Command based instructions (pseudo script language).
 
 \## Distributed Computing folder ##
-* Folder "Distributed-Computing-using-Python" contains several projects that implement fundamental distributed computing mechanisms like
-* These are implemented in C language from scratch basic Concuree which implement distributed computing methodologies from scratch, using Python
-* The list of projects are the following:
+* Folder "Distributed-Computing-using-Python" contains projects that implement several fundamental distributed computing mechanisms from scratch, like:
     1) Asynchronous Server/Client communication
     2) Decentralisated (fully distribitued) group communication with Total Order messaging
     3) Network File System (NFS)
