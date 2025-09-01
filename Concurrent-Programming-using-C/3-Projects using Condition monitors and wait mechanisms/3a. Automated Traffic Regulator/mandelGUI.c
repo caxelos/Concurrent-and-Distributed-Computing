@@ -34,11 +34,6 @@ pthread_cond_t cond_waitWhileDrawing, cond_calcReady;
 pthread_mutex_t mutex_waitWhileDrawing, mutex_calcReady;
 volatile int var_waitWhileDrawing = FALSE, var_calcReady = FALSE;
 
-
-CCR_DECLARE(NEXT_DRAW);
-CCR_DECLARE(WAIT_TO_DRAW);
-
-
 /* basic win management rountines */
 
 static void openDisplay() {
@@ -146,9 +141,6 @@ int main(int argc, char *argv[]) {
   int /*next,*/ done = 0;
  
 
- CCR_INIT(WAIT_TO_DRAW);
- CCR_INIT(NEXT_DRAW);
-
   printf("\n");
   printf("This program starts by drawing the default Mandelbrot region\n");
   printf("When done, you can click with the mouse on an area of interest\n");
@@ -254,35 +246,23 @@ int main(int argc, char *argv[]) {
       pthread_cond_signal( &tasks[i].cond);
       pthread_mutex_unlock( &tasks[i].mutex );
 
-    }
-     
-   /*
+    }   /*
    - begin a while(1) until all parts of image are drawed
-   - inqcrement done when a slice has been drawed
+  - nqcrement done when a slice has been drawed
    - break from while(1) when done==nofslices
    */
    done = 0; 
    while (1) {
-            
+              
       /*
       - select the first thread that finished working
       */
- 
-      NEXT_DRAW_mode = FALSE; 
-      pthread_mutex_lock(& WAIT_TO_DRAW_mtx); NEXT_DRAW_mode = FALSE;
-      WAIT_TO_DRAW_mode = TRUE;
-      pthread_cond_signal(&WAIT_TO_DRAW_condvar);
-      pthread_mutex_unlock(&WAIT_TO_DRAW_mtx);
-
- 
-
- 
- /*     //up( &waitWhileDrawing );
+      //up( &waitWhileDrawing );
       pthread_mutex_lock( &mutex_waitWhileDrawing );
       var_waitWhileDrawing = TRUE;
       pthread_cond_signal( &cond_waitWhileDrawing );
       pthread_mutex_unlock( &mutex_waitWhileDrawing );
-  */    
+      
      
        
       //down( &calcReady );
