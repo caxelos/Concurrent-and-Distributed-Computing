@@ -1,1 +1,0 @@
-gcc -Wall -g myBinSema.c testbench.c -o testbench -lpthread

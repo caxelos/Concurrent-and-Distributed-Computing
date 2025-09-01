@@ -2,7 +2,7 @@
 
 
 
-Project1: Αsynchronous request-reply
+Project1: Circular Buffer, where 1 Thread writes and another thread reads simultaneously.
 
 Project2: Group Communication with total order
 
