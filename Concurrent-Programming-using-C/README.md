@@ -1,12 +1,11 @@
-# Concurrent Programming techniques iusing C, pThreads, OpenMP and CUDA
+# Concurrent Programming techniques using C and pThreads library
 
 
+1. Projects that use Pthread library in order to implement mutexes from scratch.n
 
-Project1: Circular Buffer, where 1 Thread writes and another thread reads simultaneously.
+2. Projects that use Pthread library in order to implement "fair binary semaphores" from scratch.
 
-Project2: Group Communication with total order
+3. Projects that use Pthread library in order to implement Condition Monitors and wait mechanisms.
 
-Project3: Network File System
-
-Project4: Distributed Runtime with Mobile code and load balancing
+4. A compound project (Compiler Parser), where we combine all the previous techniques.
 
