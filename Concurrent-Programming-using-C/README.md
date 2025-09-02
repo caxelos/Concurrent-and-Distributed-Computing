@@ -10,4 +10,3 @@
 3. Projects that use Pthread library in order to implement Condition Monitors and wait mechanisms.
 
 4. A compound project (Compiler Parser), where we combine all the previous techniques.
-
