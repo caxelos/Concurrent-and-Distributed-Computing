@@ -1,5 +1,4 @@
-# Multithreaded 1-way, circular, FIFO pipe
-
+# Multithreaded, circular, FIFO pipe
 
 <p align="left">
   <img src="../../imgs/ring_buffer.png" alt="???" width="400" height="400"/>
