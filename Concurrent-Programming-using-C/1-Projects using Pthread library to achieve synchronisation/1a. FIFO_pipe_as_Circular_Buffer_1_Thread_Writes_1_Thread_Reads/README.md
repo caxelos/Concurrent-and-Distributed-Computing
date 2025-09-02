@@ -2,11 +2,8 @@
 
 
 <p align="center">
-  <img src="imgs/screenshot.png" alt="Screenshot" width="250"/>
+  <img src="imgs/ring_buffer" alt="???" width="250"/>
 </p>
-!\[image](ring_buffer.png)
-
-
 
 * 1-way FIFO pipe, where 1 Thread writes and 1 reads simultaneously and circularly.
 * The implemented functions are **pipe_init(), pipe_write(), pipe_read(), pipe_close()**
