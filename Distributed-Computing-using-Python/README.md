@@ -1,7 +1,7 @@
 # Distributed-Computing-using-Python
 
 <p align="left">
-  <img src="../imgs/distributed_systems.png" alt="???" width="300" height="300"/>
+  <img src="../imgs/distributed_systems.png" alt="???" width="400" height="400"/>
 </p>
 
 * Folder "Distributed-Computing-using-Python" contains projects that implement several fundamental distributed computing mechanisms from scratch,
