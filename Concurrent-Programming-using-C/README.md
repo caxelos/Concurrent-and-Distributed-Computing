@@ -1,6 +1,6 @@
 # Concurrent Programming techniques using C and pThreads library
 <p align="left">
-  <img src="../imgs/concurrent_programming.png" alt="???" width="400" height="400"/>
+  <img src="../imgs/concurrent_programming.png" alt="???" width="600" height="400"/>
 </p>
 
 1. Projects that use Pthread library in order to implement mutexes from scratch.
