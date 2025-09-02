@@ -6,5 +6,5 @@
 
 * Folder **High-Performance-Computing-in-C-lanuage** contains projects that implement several
   techniques that can ***reduce the execution time of a programm***.
-* The technologies that are used are ***C, OpenMP, Intel VTune and CUDA"
+* The technologies that are used are ***C, OpenMP, Intel VTune and CUDA **
 
