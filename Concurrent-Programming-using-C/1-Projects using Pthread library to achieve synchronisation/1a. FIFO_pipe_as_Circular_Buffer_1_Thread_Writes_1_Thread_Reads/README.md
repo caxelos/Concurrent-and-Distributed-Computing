@@ -1,8 +1,8 @@
 # Multithreaded 1-way, circular, FIFO pipe
 
 
-<p align="center">
-  <img src="imgs/ring_buffer.png" alt="???" width="250"/>
+<p align="left">
+  <img src="imgs/ring_buffer.png" alt="???" width="300" height="300"/>
 </p>
 
 * 1-way FIFO pipe, where 1 Thread writes and 1 reads simultaneously and circularly.
