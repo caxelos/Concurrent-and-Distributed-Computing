@@ -1,8 +1,8 @@
 all:
 	gcc -g -Wall -o semlib.o -c semlib.c
-	gcc -g -Wall -o bridge bridge.c semlib.o -lpthread
+	gcc -g -Wall -o main main.c semlib.o -lpthread
 
 clean:
-	$(RM) bridge
+	$(RM) main
 	$(RM) semlib.o
 	$(RM) out.txt
