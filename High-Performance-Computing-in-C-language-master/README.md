@@ -1,8 +1,8 @@
 # High Performance Computing (HPC)
 
-<p align="left">
+<!--<p align="left">
   <img src="../imgs/hpc.jpg" alt="???" width="300" height="300"/>
-</p>
+</p>-->
 
 * Folder **High-Performance-Computing-in-C-lanuage** contains projects that implement several
   techniques that can ***reduce the execution time of a programm***.
