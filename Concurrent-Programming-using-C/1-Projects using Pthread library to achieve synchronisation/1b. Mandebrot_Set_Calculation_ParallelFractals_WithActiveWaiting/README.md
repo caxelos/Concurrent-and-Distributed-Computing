@@ -1,4 +1,13 @@
 # Mandelbrot Set Calculation
 
+<p align="left">
+  <img src="../../../imgs/mandelbrot_set.png" alt="???" width="450" height="400"/>
+</p>
+
+1. Here's a multithreaded version of Mandelbrot set calculation, using
+Pthread library
+2. The Mandelbrot set serves as a “map” of how quadratic polynomials behave when iterated in the complex plane. 
+3. It "reveals" deep connections between order and chaos in dynamical
+systems.
 1. You can find more info about Mandelbrot set in <a href="https://en.wikipedia.org/wiki/Mandelbrot_set" target="_blank"
 color="cyan">Wikipedia</a>
