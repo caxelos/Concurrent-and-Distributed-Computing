@@ -10,4 +10,4 @@
 4. When we begin another recursion level, a new thread is created.
 5. When we return a previous recursion level, a thread is terminated.
 6. You can find more on how this algorithm works <a href="https://en.wikipedia.org/wiki/Quicksort" target="_blank"
-color="cyan">Wikipedia</a>.
+color="cyan"> in Wikipedia</a>.
