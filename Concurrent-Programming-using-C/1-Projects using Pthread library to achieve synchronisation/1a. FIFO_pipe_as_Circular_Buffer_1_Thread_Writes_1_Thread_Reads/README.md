@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="imgs/ring_buffer.png" alt="???" width="300" height="300"/>
+  <img src="imgs/ring_buffer.png" alt="???" width="400" height="400"/>
 </p>
 
 * 1-way FIFO pipe, where 1 Thread writes and 1 reads simultaneously and circularly.
