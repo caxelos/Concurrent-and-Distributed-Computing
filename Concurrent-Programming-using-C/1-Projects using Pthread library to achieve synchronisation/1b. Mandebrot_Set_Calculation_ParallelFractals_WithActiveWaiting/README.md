@@ -1,7 +1,7 @@
 # Mandelbrot Set Calculation
 
 <p align="left">
-  <img src="../../../imgs/mandelbrot_set.jpg" alt="???" width="450" height="400"/>
+  <img src="../../../imgs/mandelbrot_set.jpg" alt="???" width="350" height="350"/>
 </p>
 
 1. Here's a multithreaded version of Mandelbrot set calculation, using
