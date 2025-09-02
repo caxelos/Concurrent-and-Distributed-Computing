@@ -1,7 +1,7 @@
 # Concurrent Programming techniques using C and pThreads library
 
 
-1. Projects that use Pthread library in order to implement mutexes from scratch.n
+1. Projects that use Pthread library in order to implement mutexes from scratch.
 
 2. Projects that use Pthread library in order to implement "fair binary semaphores" from scratch.
 
