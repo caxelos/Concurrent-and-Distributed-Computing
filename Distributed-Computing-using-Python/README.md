@@ -9,4 +9,4 @@
     - **Asynchronous Server/Client communication**
     - **Centralized group communication with Total Order messaging** 
     - **Network File System (NFS)**
-    - **Distributed runtimes that support live code migration and automatic load balancing**.
+    - **Distributed runtimes that support live code migration and automatic load balancing**
