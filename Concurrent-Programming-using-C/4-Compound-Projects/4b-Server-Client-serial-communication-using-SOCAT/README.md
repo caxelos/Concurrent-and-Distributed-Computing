@@ -1,4 +1,4 @@
-#Server/Client serial communication using SOCAT  - CHRISTOS AXELOS
+# Server/Client serial communication using SOCAT  - CHRISTOS AXELOS
 
 <p align="left">
   <img src="../../../imgs/socat.png" alt="???" width="600" height="400"/>
