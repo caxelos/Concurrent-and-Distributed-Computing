@@ -1,6 +1,8 @@
 #Server/Client serial communication using SOCAT  - CHRISTOS AXELOS
 
-<img width="385" height="224" alt="serial-port-comm-arch" src="https://github.com/user-attachments/assets/d48bed7f-33e9-47a0-9e53-6cb4c5a4e8b9" />
+<p align="left">
+  <img src="../../../imgs/socat.png" alt="???" width="600" height="400"/>
+</p>
 
 ## What does it achieve
 * This project contains 2 apps, one AT-Command server based app and one AT-Command client based app, that communicate via a serial port connection.
